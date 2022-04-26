@@ -1,1 +1,1 @@
-# t-hri
+# InteropEHRate Terminal Health Record Index Library
