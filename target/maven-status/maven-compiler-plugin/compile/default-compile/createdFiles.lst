@@ -1,0 +1,5 @@
+eu\interopehrate\hri\thri\HealthRecordIndexFactory.class
+eu\interopehrate\hri\thri\api\HealthRecordIndexI.class
+dummy\Main.class
+eu\interopehrate\hri\thri\Citizen.class
+eu\interopehrate\hri\thri\HealthRecordIndexImpl.class
