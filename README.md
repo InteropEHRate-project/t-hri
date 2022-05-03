@@ -1,10 +1,11 @@
 # Terminal Health Record Index Library (thri)
 ## Intro
 
-The current release of the library contains all the operations that are needed from the side of the HCP application developer to interact with the library and finally with the Health Record Index. This library contains different operations that have to be invoked regarding the HCP application. This library is a Java based component that can be embedded in any Java based application. THRI is a java library implemented to be used by HCP-App developers in order to call the HRI request regarding the Healthcare Practitioners. This library is offered in the context of  **InteropEHRate** project.
+The current release of the library contains all the operations that are needed from the side of the HCP application developer to interact with the library and finally with the Health Record Index. This library contains different operations that have to be invoked regarding the HCP application. This library is a Java-based component that can be embedded in any Java based application. `t-hri` is a java library implemented to be used by HCP-App developers in order to call the HRI request regarding the Healthcare Practitioners. This library is offered in the context of  **InteropEHRate** project.
 
 ## Methods 
 
+### getCloud
 By using this method, a request is submitted to the Health Record Index service. This method is used by the HCP app in order to retrieve a citizen’s information from the HR Index by using his/her ID. The request is performed to the following endpoint of the deployed HR Index service. 
 
 - Endpoint: http://[URL]:8080/hcp/getCloud
