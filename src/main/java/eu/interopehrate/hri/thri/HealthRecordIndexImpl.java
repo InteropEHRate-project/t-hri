@@ -54,7 +54,6 @@ public class HealthRecordIndexImpl implements HealthRecordIndexI {
     }
 
     public JSONObject getCloud(String auth, String citizenId) {
-//        String base_url = "http://213.249.46.244:8080/hcp";
         String base_url = "http://localhost:8080/hcp";
         String endpoint = "/getCloud";
 
