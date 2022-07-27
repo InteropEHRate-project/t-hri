@@ -36,5 +36,5 @@ This response includes the following attributes:
 ```
 
 ## Setup guide
-To use thri, the latest version of the library must be downloaded from Nexus repository and then an object should be created and used inside the application.
+To use thri, the latest version of the library must be downloaded from the GitHub repository and then an object should be created and used inside the application.
 The library's latest version is 0.0.5
